@@ -1,5 +1,5 @@
 ### Hi there 👋 
 
-👨‍💻 All of my projects are available [here](https://alexcumplido.github.io/frontend-mentor/)
+👨‍💻 Last frontend [projects](https://alexcumplido.github.io/frontend-projects/)
 
 📄 Check my [resume](https://bit.ly/3xoNT6h)
