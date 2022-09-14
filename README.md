@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<h1 align="left">Hello there, I'm Alexandre Cumplido Bou</h1>
-<h3 align="left">Front-end dev with an explorer mindsetk.</h3>
+### Hi there 👋 I'm Alexandre Cumplido Bou
 
 🌱 I’m currently learning **A11Y Accessibilit**
 
