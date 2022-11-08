@@ -1,8 +1,8 @@
-### I'm Alexandre Cumplido Bou 👋 
+### What's Up programmers ?
 
-I approach programming with an explorer mindset and technical communication. Problem-solving in team scenarios is what I enjoy.
+I like bringing projects to live with an explorer mindset.
 
-A year ago I started pivoting into web development, after learnign HTML, CSS and JS I enrolled at the ITAcademy taking the React path. Currently I am migrating my projects to TypeScript and implementing accessibility standards.
+A year ago I started pivoting into web development, after self learnign HTML, CSS and JS I enrolled at the ITAcademy taking the React path. Currently I am migrating my projects to TypeScript and implementing accessibility standards. Problem-solving in team scenarios is what I enjoy.
 
 Looking forward to being part of a team where contribute with my skillset while growing as a team member and developer.
 
