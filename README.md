@@ -6,11 +6,11 @@ A year ago I started pivoting into web development, after self learnign HTML, CS
 
 Looking forward to being part of a team where contribute with my skillset while growing as a team member and developer.
 
-**Want to know more ?:**
+**Want to know more ?**
 ###
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrecb/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://alexcumplido.github.io/portfolio/)
-[![Resume Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://drive.google.com/file/d/1LJeGElFDSBLg6dgMHgHygAjYJk45NqCo/view?usp=sharing)
+[![Website Badge](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://alexcumplido.github.io/portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrecb/)
+[![Resume Badge](https://img.shields.io/badge/resumee-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://drive.google.com/file/d/1LJeGElFDSBLg6dgMHgHygAjYJk45NqCo/view?usp=sharing)
 
 
 **Currennt work:**
