@@ -1,6 +1,6 @@
 ### I'm Alexandre Cumplido Bou 👋 
 
-I approach programming with an explorer mindset and technical communication. Problem-solving in team scenarios and create reausable code is what I enjoy.
+I approach programming with an explorer mindset and technical communication. Problem-solving in team scenarios is what I enjoy.
 
 A year ago I started pivoting into web development, after learnign HTML, CSS and JS I enrolled at the ITAcademy taking the React path. Currently I am migrating my projects to TypeScript and implementing accessibility standards.
 
@@ -22,6 +22,8 @@ Looking forward to being part of a team where contribute with my skillset while 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
+
+
 
 
 
