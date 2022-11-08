@@ -1,2 +1,4 @@
 ### Hi there 👋 
-[Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcumplido&hide=commits,prs)
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcumplido&hide=commits,prs)]
+
+
