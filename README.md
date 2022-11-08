@@ -7,10 +7,10 @@ A year ago I started pivoting into web development, after learnign HTML, CSS and
 Looking forward to being part of a team where contribute with my skillset while growing as a team member and developer.
 
 <a href="https://github.com/Mia-Salazar/Mia-Salazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcumplido&hide=stars,issues,contribs&theme=synthwave" alt="Alexandre's Cumplido GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexcumplido&hide=stars,issues,contribs&theme=synthwave" alt="Alexandre's Cumplido GitHub Stats" />
 </a>
 <a href="https://github.com/Mia-Salazar/Mia-Salazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcumplido&layout=compact" alt="Alexandre's Cumplido GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcumplido&layout=compact&langs_count=3" alt="Alexandre's Cumplido GitHub Stats" />
 </a>
 
 **Technologies:**
