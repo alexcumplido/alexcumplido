@@ -24,12 +24,11 @@ Looking forward to being part of a team where contribute with my skillset while 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
 
-**My best projectss:**
+**Current work:**
 ###
-  
 | <a href="https://takemehome-three.vercel.app/" target="_blank">**Take me home**</a> | <a href="https://yogaseries.vercel.app/" target="_blank">**Yoga Series**</a> | <a href="https://alexcumplido.github.io/frontend-projects/" target="_blank">**Web utilities**</a> | |
-| :---: | :---: | :---: | :---: |
-<img align='center' src='https://alexcumplido.github.io/portfolio/images/pets.PNG' width="100px"  height='75px'> | <img align='center' width="100px" src='https://alexcumplido.github.io/portfolio/images/yourYoga.png' height='75px'>  | <img align='center' src='https://alexcumplido.github.io/portfolio/images/components/BeFunky-collage.png' width="100px" height='75px'> | 
+| :---: | :---: | :---: |
+<img align='center' src='https://alexcumplido.github.io/portfolio/images/pets.PNG' width="100px"  height='100px'> | <img align='center' width="100px" src='https://alexcumplido.github.io/portfolio/images/yourYoga.png' height='100px'>  | <img align='center' src='https://alexcumplido.github.io/portfolio/images/components/BeFunky-collage.png' width="100px" height='100px'> | 
 
 
 
