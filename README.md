@@ -1,4 +1,4 @@
-### What's Up programmers ?
+### Hello there!
 
 I like bringing projects to live with an explorer mindset.
 
