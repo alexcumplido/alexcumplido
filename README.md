@@ -10,7 +10,7 @@ Looking forward to being part of a team where contribute with my skillset while 
 ###
 [![Website Badge](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://alexcumplido.github.io/portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrecb/)
-[![Resume Badge](https://img.shields.io/badge/resumee-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://drive.google.com/file/d/1LJeGElFDSBLg6dgMHgHygAjYJk45NqCo/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/resumee-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://drive.google.com/file/d/1ul9ZSFovW_yiSYdSo98-cxTOrCMQELIk/view?usp=sharing)
 
 
 **Currennt work:**
@@ -21,7 +21,8 @@ Looking forward to being part of a team where contribute with my skillset while 
 
 👨‍💻👩‍💻 Happy coding!
 
-
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- https://shields.io/ -->
 
 
 
