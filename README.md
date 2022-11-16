@@ -13,7 +13,7 @@ Looking forward to being part of a team where contribute with my skillset while 
 
 **Currennt work:**
 ###
-<a href="https://takemehome-three.vercel.app/" target="_blank">Take me home</a>\
+<a href="https://takeme-home.vercel.app/" target="_blank">Take me home</a>\
 <a href="https://yogaseries.vercel.app/" target="_blank">Yoga Series</a>\
 <a href="https://alexcumplido.github.io/frontend-projects/" target="_blank">Web utilities</a>
 
