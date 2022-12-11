@@ -88,7 +88,7 @@ Looking to bring my skills to an tech team with global reach.
   </tr>
 </table>
 
-<h1 align="center">Technologies</h1>
+<!-- <h1 align="center">Technologies</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -103,7 +103,7 @@ Looking to bring my skills to an tech team with global reach.
     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+</p> -->
 
 
 
