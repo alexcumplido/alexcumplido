@@ -1,21 +1,6 @@
 ### Hello there!
 
-<!-- <p align="center">
-  <a href="https://alexcumplido.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alexandrecb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-    <a href="https://drive.google.com/file/d/1jUsuqfn3azsMZw6lR5wEhOp98kiFo5sv/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/alexcubou" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-</p> -->
-
-Frontend Engineer with technical communication focusing on code readability. Passionate about translating business logic to an easy-to-use UI. Currently I am migrating to TypeScript and implementing accessibility standards. 
+Frontend Engineer with technical communication focusing on code readability. Passionate about translating business logic to an easy-to-use UI. Currently migrating to TypeScript and implementing accessibility standards. 
 
 👨‍💻 See [my website](https://alexcumplido.github.io/portfolio/) for more information!
 
@@ -38,13 +23,13 @@ Looking to bring my skills to an tech team with global reach.
         <br />
         <p align="center">   
   <a href="https://github.com/alexcumplido/takemeHome#readme" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://takeme-home.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, TypeScript, React, Vite</strong> - Take Me Web app connecting local shelters and people looking to adopt animals. Users can search and filter from a wide range of animals as well as to check on them later.</p>
+        <p><strong>HTML5, CSS3, JavaScript, TypeScript, React, Vite</strong> - Take Me Home helps connecting local shelters and people looking to adopt animals. Users can search and filter from a wide range of animals as well as to check on them later.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Elements</h3>
@@ -55,13 +40,13 @@ Looking to bring my skills to an tech team with global reach.
         <br />
         <p align="center">
   <a href="https://github.com/alexcumplido/frontend-projects" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://alexcumplido.github.io/frontend-projects/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, JavaScript, Accessibility</strong> - Elements is a public collection of utilities and web components ready-to-use like modals, checkout forms, cards...</p>
+        <p><strong>HTML5, CSS3, JavaScript, Accessibility</strong> - Elements is a public collection of utilities and web components ready-to-use like modular cards, checkout forms, cards, responsive utilities...</p>
     </td>
   </tr>
   
@@ -75,13 +60,13 @@ Looking to bring my skills to an tech team with global reach.
       <br />
         <p align="center">
             <a href="https://github.com/alexcumplido/yogaSeries" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
             <a href="https://yogaseries.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+                <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
             </a>
       </p>
-        <p><strong>HTML5, CSS3, JavaScript, React</strong> - A web app that allows yoga practitioners to customize their daily practice.</p>
+        <p><strong>HTML5, CSS3, JavaScript, React</strong> - Web app that allows yoga practitioners to customize their daily practice.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Splitter</h3>
@@ -92,18 +77,18 @@ Looking to bring my skills to an tech team with global reach.
         <br />
         <p align="center">
   <a href="https://github.com/alexcumplido/frontend-projects/tree/main/tip-calculator#tip-calculator-app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://alexcumplido.github.io/frontend-projects/tip-calculator/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - An intuitive tip calculator for friends and family to share.</p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - An intuitive tip calculator for friends and family to share.</p>
     </td>
   </tr>
 </table>
 
-<h1 align="center">Tools</h1>
+<h1 align="center">Technologies</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
