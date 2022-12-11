@@ -1,6 +1,6 @@
 ### Hello there!
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://alexcumplido.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -13,14 +13,17 @@
   <a href="https://twitter.com/alexcubou" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-
-</p>
+</p> -->
 
 Frontend Engineer with technical communication focusing on code readability. Passionate about translating business logic to an easy-to-use UI. Currently I am migrating to TypeScript and implementing accessibility standards. 
 
-Looking to bring my skills to an engineering team with global reach.
+👨‍💻 See [my website](https://alexcumplido.github.io/portfolio/) for more information!
 
-See [my website](https://alexcumplido.github.io/portfolio/) for more information!
+📫 Reach me at *alexcubou@gmail.com*
+
+📄 Check out my [resumee](https://drive.google.com/file/d/1jUsuqfn3azsMZw6lR5wEhOp98kiFo5sv/view?usp=sharing)
+
+Looking to bring my skills to an tech team with global reach.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -100,7 +103,6 @@ See [my website](https://alexcumplido.github.io/portfolio/) for more information
   </tr>
 </table>
 
-</br>
 <h1 align="center">Tools</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
