@@ -8,7 +8,7 @@ Frontend Engineer with technical communication focusing on code readability. Pas
 
 📄 Check out my [resumee](https://drive.google.com/file/d/1jUsuqfn3azsMZw6lR5wEhOp98kiFo5sv/view?usp=sharing)
 
-Looking to bring my skills to an engineering team at a tech company with global reach.
+Looking to bring my skills to a team at a tech company with global reach.
 
 <h1 align="center">Current projects</h1>
 <table bordercolor="#66b2b2">
