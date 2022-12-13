@@ -8,7 +8,7 @@ Front End Developer with technical communication focusing on code readability. P
 
 📄 Check out my [resumee](https://drive.google.com/file/d/1nN3xiGrFHyNouzKPWVZrCxglGqPku_aB/view?usp=sharing)
 
-Looking to bring my skills to a tech company with direct impact on end-users.
+Looking to bring my skills to a tech company with impact on end-users.
 
 <h1 align="center">Work</h1>
 <table bordercolor="#66b2b2">
@@ -28,7 +28,8 @@ Looking to bring my skills to a tech company with direct impact on end-users.
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p><strong>HTML5, CSS3, JavaScript, TypeScript, React</strong> - Take Me Home is a use case helping connecting an animal rescue shelter from Bareclona and people looking to adopt one. Users can search and filter from a wide range of pets as well as to check on them later.</p>
+        <p><strong>HTML5, CSS3, JavaScript, TypeScript, React</strong> - Take Me Home is a use case application for an animals rescue shelter in Barcelona. The app helps connecting the shelter and people looking to adopt an animal. Users can search and filter from a wide range of pets as well as to check on them later.
+        </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Elements</h3>
@@ -65,7 +66,7 @@ Looking to bring my skills to a tech company with direct impact on end-users.
                 <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
             </a>
       </p>
-        <p><strong>HTML5, CSS3, JavaScript, React, Vite</strong> - Web app that for a local Yoga Studio allowing practitioners to customize their daily practice.</p>
+        <p><strong>HTML5, CSS3, JavaScript, React, Vite</strong> - Web app  for a local Yoga Studio that offers yoga practitioners a customization of their daily series.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Splitter</h3>
