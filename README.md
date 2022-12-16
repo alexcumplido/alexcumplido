@@ -1,14 +1,12 @@
 ### Hello there!
 
-Front-End with technical communication and a passion for translating business logic into an easy-to-use UI. Problem-solving in team scenarios and writing clean code is what I enjoy. I have a solid basis in GIT, HTML, CSS, and JavaScript. Currently working on React and migrating to TypeScript.
+Front-End developer with technical communication and a passion for translating business logic into an easy-to-use UI. Problem-solving in team scenarios and writing clean code is what I enjoy. I have a solid basis in GIT, HTML, CSS, and JavaScript. Currently working on React and migrating to TypeScript. I am looking to bring my skills to a company creating tech solutions with an impact on users.
 
 👨‍💻 See [my website](https://alexcumplido.github.io/portfolio/) for more information!
 
 📫 Reach me at *alexcubou@gmail.com*
 
 📄 Check out my [resumee](https://drive.google.com/file/d/1BsV2o8HxOSkwahxJ7uDB2ryjMzl3xGKP/view?usp=sharing)
-
-I am looking to bring my skills to a company creating tech solutions with an impact on users.
 
 <h1 align="center">Work</h1>
 <table bordercolor="#66b2b2">
