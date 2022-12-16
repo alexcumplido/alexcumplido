@@ -1,14 +1,14 @@
 ### Hello there!
 
-Front End Developer with technical communication focusing on code readability. Passionate about translating business logic to an easy-to-use UI. Solid basis in GIT, HTML, CSS, Sass, JavaScript, React and currently migrating to TypeScript. 
+Front End Developer with technical communication focusing on clean code. Passionate about translating business logic to an easy-to-use UI. Solid basis in GIT, HTML, CSS, Sass, JavaScript, React and currently migrating to TypeScript. 
 
 👨‍💻 See [my website](https://alexcumplido.github.io/portfolio/) for more information!
 
 📫 Reach me at *alexcubou@gmail.com*
 
-📄 Check out my [resumee](https://drive.google.com/file/d/1nN3xiGrFHyNouzKPWVZrCxglGqPku_aB/view?usp=sharing)
+📄 Check out my [resumee](https://drive.google.com/file/d/1BsV2o8HxOSkwahxJ7uDB2ryjMzl3xGKP/view?usp=sharing)
 
-Looking to bring my skills to a tech company with impact on end-users.
+Looking to bring my skills to a tech company and with impact on users.
 
 <h1 align="center">Work</h1>
 <table bordercolor="#66b2b2">
