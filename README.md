@@ -28,7 +28,29 @@ Frontend developer with a passion for translating business logic into an easy-to
  to adopt an animal
         </p>
     </td>
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
+      <h3 align="center">Elements</h3>
+      <br />
+      <a target="_blank" href="https://alexcumplido.github.io/frontend-projects/">
+        <img src="https://alexcumplido.github.io/portfolio/images/elements.PNG" width="100%"  alt="Rigley 2"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/alexcumplido/frontend-projects#elements" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://alexcumplido.github.io/frontend-projects/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+        </a>
+      </p>
+      <p>
+        <strong>HTML5, CSS3, JavaScript, Accessibility</strong> - A public library of responsive web components and elements ready-to-use
+      </p>
+    </td>
+    
+  </tr>
+   <tr>
+   <td width="50%" valign="top">
       <h3 align="center">Developer Dashboard</h3>
         <br />
         <a target="_blank" href="https://github.com/alexcumplido">
@@ -47,27 +69,6 @@ Frontend developer with a passion for translating business logic into an easy-to
         <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - (working) A modern tool that supports developers visualizing statistics and insights from GitHub code repositories 
         </p>
         </p>
-    </td>
-  </tr>
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Elements</h3>
-      <br />
-      <a target="_blank" href="https://alexcumplido.github.io/frontend-projects/">
-        <img src="https://alexcumplido.github.io/portfolio/images/elements.PNG" width="100%"  alt="Rigley 2"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/alexcumplido/frontend-projects#elements" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://alexcumplido.github.io/frontend-projects/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-        </a>
-      </p>
-      <p>
-        <strong>HTML5, CSS3, JavaScript, Accessibility</strong> - A public library of responsive web components and elements ready-to-use
-      </p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Splitter</h3>
