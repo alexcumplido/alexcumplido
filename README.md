@@ -29,7 +29,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Developer Dashboard (work in progress)</h3>
+      <h3 align="center">Developer Dashboard</h3>
         <br />
         <a target="_blank" href="https://github.com/alexcumplido">
           <img src="https://cdn.filestackcontent.com/ttsqsiTEqZm6RqajkDOA" width="100%" alt="Travel App"/>
@@ -44,7 +44,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
         </p>
         <p>
-        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - A modern tool that supports developers visualizing statistics and insights from GitHub code repositories 
+        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - (work in progress) A modern tool that supports developers visualizing statistics and insights from GitHub code repositories 
         </p>
         </p>
     </td>
