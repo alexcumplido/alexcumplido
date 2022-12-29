@@ -25,7 +25,7 @@ Frontend developer with a passion for translating business logic into an easy-to
           </a>
         </p>
         <p><strong>HTML5, CSS3, TypeScript, React, ESlint, Prettier</strong> - App connecting local animal rescue shelters and people looking
- to adopt an animal. Pets can be searched and saved on a dashboard
+ to adopt an animal. 
         </p>
     </td>
     <td width="50%" valign="top">
