@@ -44,7 +44,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
         </p>
         <p>
-        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - (work in progress) A modern tool that supports developers visualizing statistics and insights from GitHub code repositories 
+        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - (working) A modern tool that supports developers visualizing statistics and insights from GitHub code repositories 
         </p>
         </p>
     </td>
@@ -104,7 +104,7 @@ Frontend developer with a passion for translating business logic into an easy-to
                 <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
             </a>
       </p>
-        <p><strong>HTML5, CSS3, React, Vite</strong> - (on development)  Client-side app for a local Yoga Studio. The users can support their daily practice by customizing their yoga series</p>
+        <p><strong>HTML5, CSS3, React, Vite</strong> - (working) Client-side app for a local Yoga Studio. Users can support their daily practice by customizing their yoga series</p>
     </td>
    
   </tr>
