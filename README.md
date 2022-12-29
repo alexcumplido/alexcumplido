@@ -26,7 +26,7 @@ contribute to an engineering team creating solutions with an impact on customers
           </a>
         </p>
         <p><strong>HTML5, CSS3, TypeScript, React, ESlint, Prettier</strong> - The web app connects local animal rescue shelters and people looking
-          to adopt an animal. sers can search and filter from a wide range of pets as well as to check on them later.
+ to adopt an animal. Pets can be searched and saved on a dashboard
         </p>
     </td>
     <td width="50%" valign="top">
@@ -45,7 +45,7 @@ contribute to an engineering team creating solutions with an impact on customers
         </a>
         </p>
         <p>
-        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - A modern tool that let developers to check and visualize statistics about their favorite GitHub repositories
+        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - A modern tool that lets developers to check and visualize statistics about their favorite GitHub repositories
         and get insights from them.
         </p>
     </td>
