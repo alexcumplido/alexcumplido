@@ -1,7 +1,6 @@
 ### Hello there!
 
-Frontend developer with a passion for translating business logic into an easy-to-use UI. Completed an internship and in-person training working with modern web standards. Participated in coding team competitions finishing in the first position. I have a solid basis in GIT, HTML, CSS, and JavaScript. Currently working on React and migrating to TypeScript. I am looking to 
-contribute to an engineering team creating solutions with an impact on customers. 
+Frontend developer with a passion for translating business logic into an easy-to-use UI. I have a solid basis in GIT, HTML, CSS, and JavaScript. Currently working on React and migrating to TypeScript. I am looking to contribute to an engineering team creating solutions with an impact on customers. 
 
 👨‍💻 See [my website](https://alexcumplido.github.io/portfolio/) for more information!
 
