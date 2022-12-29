@@ -44,8 +44,8 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
         </p>
         <p>
-        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - A modern tool that lets developers to check and visualize statistics about their favorite GitHub repositories
-        and get insights from them
+        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - A modern tool that supports developers visualizing statistics and insights from GitHub code repositories 
+        </p>
         </p>
     </td>
   </tr>
