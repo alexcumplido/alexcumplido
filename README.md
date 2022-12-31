@@ -43,7 +43,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
       </p>
       <p>
-        <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. Library of web components ready-to-use.
+        <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. Library of native web components ready-to-use.
       </p>
     </td>
     
