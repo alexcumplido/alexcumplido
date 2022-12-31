@@ -87,7 +87,6 @@ Frontend developer with a passion for translating business logic into an easy-to
         </p>
     </td>
   </tr>
-  <tr>
 </table>
 
 
