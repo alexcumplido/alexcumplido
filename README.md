@@ -67,7 +67,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         <p><strong>CSS3, React, Vite, ESlint, Prettier, Vercel</strong>. Application for a Yoga Studio supporting practitioners customizing their posture series.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Developer Dashboard</h3>
+      <h3 align="center">Repo Dashboard</h3>
         <br />
         <a target="_blank" href="https://github.com/alexcumplido">
           <img src="https://cdn.filestackcontent.com/ttsqsiTEqZm6RqajkDOA" width="100%" alt="Travel App"/>
