@@ -24,8 +24,7 @@ Frontend developer with a passion for translating business logic into an easy-to
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p><strong>HTML5, CSS3, TypeScript, React, ESlint, Prettier</strong> - App connecting local animal rescue shelters and people looking
- to adopt an animal
+        <p><strong>TypeScript, React, ESlint, Prettier, Vite</strong>. Client-side app connecting local animal shelters and people looking to adopt a pet.
         </p>
     </td>
      <td width="50%" valign="top">
@@ -44,7 +43,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
       </p>
       <p>
-        <strong>HTML5, CSS3, JavaScript, Accessibility</strong> - A public library of responsive web components and elements ready-to-use
+        <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. ibrary of web components ready-to-use.
       </p>
     </td>
     
@@ -65,30 +64,9 @@ Frontend developer with a passion for translating business logic into an easy-to
                 <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
             </a>
       </p>
-        <p><strong>HTML5, CSS3, React, Vite</strong> - (working) Client-side app for a local Yoga Studio. Users can support their daily practice by customizing their yoga series</p>
+        <p><strong>CSS3, React, Vite, ESlint, Prettier, Vercel</strong>. Application for a Yoga Studio supporting practitioners customizing their posture series.</p>
     </td>
-     <td width="50%" valign="top">
-      <h3 align="center">Splitter</h3>
-        <br />
-        <a target="_blank" href="https://alexcumplido.github.io/frontend-projects/tip-calculator/index.html">
-          <img src="https://alexcumplido.github.io/frontend-projects/images/calculator.PNG" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-    <p align="center">
-  <a href="https://github.com/alexcumplido/frontend-projects/tree/main/tip-calculator#splitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://alexcumplido.github.io/frontend-projects/tip-calculator/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript</strong> - Accessible and intuitive tip calculator for friends in the hospitality industry</p>
-    </td>
-  </tr>
-  <tr>
-  <tr>
-   
-   <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Developer Dashboard</h3>
         <br />
         <a target="_blank" href="https://github.com/alexcumplido">
@@ -104,9 +82,29 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
         </p>
         <p>
-        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong> - (working) A modern tool that supports developers visualizing statistics and insights from GitHub code repositories 
+        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong>. Tool for developers looking to visualize statistics from GitHub repositories.
         </p>
         </p>
+    </td>
+  </tr>
+  <tr>
+  <tr>
+        <td width="50%" valign="top">
+      <h3 align="center">Splitter</h3>
+        <br />
+        <a target="_blank" href="https://alexcumplido.github.io/frontend-projects/tip-calculator/index.html">
+          <img src="https://alexcumplido.github.io/frontend-projects/images/calculator.PNG" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+    <p align="center">
+  <a href="https://github.com/alexcumplido/frontend-projects/tree/main/tip-calculator#splitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://alexcumplido.github.io/frontend-projects/tip-calculator/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript</strong>. Accessible and intuitive tip calculator for friends in the hospitality industry</p>
     </td>
   </tr>
 </table>
