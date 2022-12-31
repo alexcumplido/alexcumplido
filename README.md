@@ -24,7 +24,7 @@ Frontend developer with a passion for translating business logic into an easy-to
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p><strong>TypeScript, React, ESlint, Prettier, Vite</strong>. Client-side app connecting local animal shelters and people looking to adopt a pet.
+        <p><strong>TypeScript, React, ESlint, Prettier, Vite</strong>. Client-side app connecting animal shelters and people looking to adopt a pet.
         </p>
     </td>
      <td width="50%" valign="top">
@@ -43,7 +43,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
       </p>
       <p>
-        <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. ibrary of web components ready-to-use.
+        <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. Library of web components ready-to-use.
       </p>
     </td>
     
@@ -82,7 +82,7 @@ Frontend developer with a passion for translating business logic into an easy-to
         </a>
         </p>
         <p>
-        <strong>HTML5, Sass, TypeScript, React, ESlint, Prettier</strong>. Tool for developers looking to visualize statistics from GitHub repositories.
+        <strong>Sass, TypeScript, React, ESlint, Prettier</strong>. Tool for developers looking to visualize statistics from GitHub repositories.
         </p>
         </p>
     </td>
