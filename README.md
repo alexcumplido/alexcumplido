@@ -70,7 +70,7 @@ Frontend developer with a passion for translating business logic into an easy-to
       <h3 align="center">Repo Dashboard</h3>
         <br />
         <a target="_blank" href="https://github.com/alexcumplido">
-          <img src="https://cdn.filestackcontent.com/ttsqsiTEqZm6RqajkDOA" width="100%" alt="Travel App"/>
+          <img src="https://raw.githubusercontent.com/alexcumplido/portfolio/main/images/repoDash.png" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">   
