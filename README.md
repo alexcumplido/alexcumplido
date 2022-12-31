@@ -88,25 +88,6 @@ Frontend developer with a passion for translating business logic into an easy-to
     </td>
   </tr>
   <tr>
-  <tr>
-        <td width="50%" valign="top">
-      <h3 align="center">Splitter</h3>
-        <br />
-        <a target="_blank" href="https://alexcumplido.github.io/frontend-projects/tip-calculator/index.html">
-          <img src="https://alexcumplido.github.io/frontend-projects/images/calculator.PNG" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-    <p align="center">
-  <a href="https://github.com/alexcumplido/frontend-projects/tree/main/tip-calculator#splitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://alexcumplido.github.io/frontend-projects/tip-calculator/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript</strong>. Accessible and intuitive tip calculator for friends in the hospitality industry</p>
-    </td>
-  </tr>
 </table>
 
 
