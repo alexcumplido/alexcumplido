@@ -1,6 +1,6 @@
 ### Hello there!
 
-Developer with a passion for translating business logic into an easy-to-use UI. Driven by team collaboration, I enjoy participating in Hackathons and tech meetups. Working on the frontend with GIT, HTML, CSS with Sass, JavaScript, and React with hooks. Currently, I am migrating to TypeScript and interested in TDD principles. Looking to contribute to a company creating solutions with an impact on customers and solving users' problems.
+Translating business logic into an easy-to-use UI is my passion. Driven by team collaboration, I enjoy participating in Hackathons and tech meetups. Experience with GIT, HTML, CSS, Sass, JavaScript, and React with hooks. Currently, I am migrating to TypeScript and interested in TDD principles. When not working, I spent time in nature, reading sci-fi and practicing swimming. Looking to contribute to a company creating solutions with an impact on customers and solving users' problems.
 
 👨‍💻 See my <strong>[website](https://alexcumplido.github.io/portfolio/)</strong> for more information!
 
