@@ -1,6 +1,6 @@
 ### Hello there!
 
-Frontend developer with a passion for translating business logic into an easy-to-use UI. Working with GIT, HTML5, CSS3, JavaScript ES6, and React with custom hooks. Currently migrating to TypeScript and interested in TDD principles ad Accessibility. I am looking to contribute to an engineering team creating solutions with an impact on customers and end-users.
+Frontend developer with a passion for translating business logic into an easy-to-use UI. Working with GIT, HTML5, CSS3, JavaScript ES6, and React with custom hooks. Currently migrating to TypeScript and interested in TDD principles. Looking to contribute to an engineering team creating solutions with an impact on customers and end-users.
 
 👨‍💻 See my <strong>[website](https://alexcumplido.github.io/portfolio/)</strong> for more information!
 
