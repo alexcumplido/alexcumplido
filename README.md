@@ -2,9 +2,9 @@
 
 Frontend developer with a passion for translating business logic into an easy-to-use UI. Solid knowledge of GIT, HTML5, CSS3, JavaScript ES6, and React with custom hooks. Currently migrating to TypeScript increasing codebase stability. Interested in TDD principles ad Accessibility. I am looking to contribute to an engineering team creating solutions with an impact on customers and end-users.
 
-👨‍💻 See [my website](https://alexcumplido.github.io/portfolio/) for more information!
+👨‍💻 See my <strong>[website](https://alexcumplido.github.io/portfolio/)</strong> for more information!
 
-📫 Reach me at *alexcubou@gmail.com*
+📫 Reach me at <strong>alexcubou@gmail.com</strong>
 
 <h1 align="center">Work</h1>
 <table bordercolor="#66b2b2">
