@@ -67,22 +67,22 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
         <p><strong>CSS3, React, Vite, ESlint, Prettier, Vercel</strong>. Application for a Yoga Studio supporting practitioners customizing their posture series.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Repo Dashboard</h3>
+      <h3 align="center">SWAPI</h3>
         <br />
         <a target="_blank" href="https://github.com/alexcumplido">
-          <img src="https://raw.githubusercontent.com/alexcumplido/portfolio/main/images/repoDash.png" width="100%" alt="Travel App"/>
+          <img src="https://alexcumplido.github.io/portfolio/images/swapi.PNG" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">   
-          <a href="https://github.com/alexcumplido" target="_blank">
+          <a href="https://github.com/alexcumplido/starwars-swapi#star-wars-universe" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://github.com/alexcumplido" target="_blank">
+        <a href="https://starwars-swapi.vercel.app/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
         </a>
         </p>
         <p>
-        <strong>Sass, TypeScript, React, ESlint, Prettier</strong>. Tool for developers looking to visualize statistics from GitHub repositories.
+        <strong>CSS3, JavaScript, React, Router, AXIOS</strong>. Star Wars site with login, client-side protected routes, and API fetching using AXIOS.
         </p>
         </p>
     </td>
