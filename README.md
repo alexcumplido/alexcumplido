@@ -67,7 +67,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
         <p><strong>CSS3, React, Vite, ESlint, Prettier, Vercel</strong>. Application for a Yoga Studio supporting practitioners customizing their posture series.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">SWAPI</h3>
+      <h3 align="center">SWAPI (StarWars Api)</h3>
         <br />
         <a target="_blank" href="https://github.com/alexcumplido">
           <img src="https://alexcumplido.github.io/portfolio/images/swapi.PNG" width="100%" alt="Travel App"/>
@@ -82,7 +82,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
         </a>
         </p>
         <p>
-        <strong>CSS3, JavaScript, React, Router, AXIOS</strong>. Star Wars site with login, client-side protected routes, and API fetching using AXIOS.
+        <strong>CSS3, JavaScript, React, Router, AXIOS</strong>. Fan site with login, client-side protected routes, and API fetching using AXIOS.
         </p>
         </p>
     </td>
