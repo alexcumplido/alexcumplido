@@ -9,7 +9,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
 <h1 align="center">Work</h1>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">Take Me Home</h3>
         <br />
         <a target="_blank" href="https://takeme-home.vercel.app/">
@@ -24,69 +24,50 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p><strong>TypeScript, React, ESlint, Prettier, Vite</strong>. Client-side app connecting animal shelters and people looking to adopt a pet.
+        <p align="center"><strong>TypeScript, React, ESlint, Prettier, Vite</strong>. Client-side app connecting animal shelters and people looking to adopt a pet.
         </p>
     </td>
-     <td width="50%" valign="top">
-      <h3 align="center">Elements</h3>
-      <br />
-      <a target="_blank" href="https://alexcumplido.github.io/frontend-projects/">
-        <img src="https://alexcumplido.github.io/portfolio/images/elements.PNG" width="100%"  alt="Rigley 2"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/alexcumplido/frontend-projects#elements" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
+        <h3 align="center">Elements</h3>
+        <br />
+        <a target="_blank" href="https://alexcumplido.github.io/frontend-projects/">
+          <img src="https://alexcumplido.github.io/portfolio/images/elements.PNG" width="100%"  alt="Rigley 2"/>
         </a>
-        <a href="https://alexcumplido.github.io/frontend-projects/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-        </a>
-      </p>
-      <p>
-        <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. Library of native web components ready-to-use.
-      </p>
-    </td>
-    
-  </tr>
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Yoga Series</h3>
-      <br />
-        <a target="_blank" href="https://yogaseries.vercel.app/">
-          <img src="https://alexcumplido.github.io/portfolio/images/yourYoga.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
+        <br />
         <p align="center">
-            <a href="https://github.com/alexcumplido/yogaSeries#yoga-series" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>
-            <a href="https://yogaseries.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-            </a>
-      </p>
-        <p><strong>CSS3, React, Vite, ESlint, Prettier, Vercel</strong>. Application for a Yoga Studio supporting practitioners customizing their posture series.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">SWAPI (StarWars Api)</h3>
+          <a href="https://github.com/alexcumplido/frontend-projects#elements" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://alexcumplido.github.io/frontend-projects/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+          </a>
+        </p>
+        <p align="center">
+          <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. A collection of native interface web components ready-to-use.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
+        <h3 align="center">Yoga Series</h3>
         <br />
-        <a target="_blank" href="https://starwars-swapi.vercel.app/">
-          <img src="https://alexcumplido.github.io/portfolio/images/swapi.PNG" width="100%" alt="Travel App"/>
-        </a>
+          <a target="_blank" href="https://yogaseries.vercel.app/">
+            <img src="https://alexcumplido.github.io/portfolio/images/yourYoga.png" width="100%" alt="Portfolio"/>
+          </a>
         <br />
-        <p align="center">   
-          <a href="https://github.com/alexcumplido/starwars-swapi#swapi---star-wars-api" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://starwars-swapi.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-        </a>
+          <p align="center">
+              <a href="https://github.com/alexcumplido/yogaSeries#yoga-series" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+              </a>
+              <a href="https://yogaseries.vercel.app/" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+              </a>
         </p>
-        <p>
-        <strong>CSS3, JavaScript, React, Router, AXIOS</strong>. Using the Star Wars API, this site let users log in visualizing data about spaceships, pilots and films.
-        </p>
-        </p>
-    </td>
-  </tr>
+          <p align="center"><strong>CSS3, React, Vite, ESlint, Prettier, Vercel</strong>. Application for a Yoga Studio supporting practitioners customizing their posture series.</p>
+      </td>
+    </tr>
 </table>
 
 
