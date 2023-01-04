@@ -74,7 +74,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
         </a>
         <br />
         <p align="center">   
-          <a href="https://github.com/alexcumplido/starwars-swapi#star-wars-universe" target="_blank">
+          <a href="https://github.com/alexcumplido/starwars-swapi#swapi---star-wars-api" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://starwars-swapi.vercel.app/" target="_blank">
@@ -82,7 +82,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
         </a>
         </p>
         <p>
-        <strong>CSS3, JavaScript, React, Router, AXIOS</strong>. Fan site with login, client-side protected routes, and API fetching using AXIOS.
+        <strong>CSS3, JavaScript, React, Router, AXIOS</strong>. Using the Star Wars API, this site let users log in visualizing data about spaceships, pilots and films.
         </p>
         </p>
     </td>
