@@ -24,7 +24,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p align="center"><strong>TypeScript, React, ESlint, Prettier, Vite</strong>. Client-side app connecting animal shelters and people looking to adopt a pet.
+        <p align="center">Client-side app connecting animal shelters and people looking to adopt a pet. UI built with HTML5, CSS3, and React.js with TypeScript. Integrated third-party APIs, used ESLint and Prettier as code format tools, and VITE as development environment tool.
         </p>
     </td>
     </tr>
@@ -45,7 +45,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
           </a>
         </p>
         <p align="center">
-          <strong>HTML5, CSS3, JavaScript ES6, Accessibility</strong>. A collection of native interface web components ready-to-use.
+          Elements is a collection of interface widgets ready to use. Built with native HTML5, CSS3, JavaScript ES6, and applying Accessibility standards.
         </p>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
                   <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
               </a>
         </p>
-          <p align="center"><strong>CSS3, React, Vite, ESlint, Prettier, Vercel</strong>. Application for a Yoga Studio supporting practitioners customizing their posture series.</p>
+          <p align="center">App for a Yoga Studio supporting practitioners customizing their posture series. Interface built with HTML5, SASS, and React. Code formatted with Prettier and ESlint. Vercel for deployment.</p>
       </td>
     </tr>
 </table>
