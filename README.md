@@ -69,7 +69,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
     <td width="50%" valign="top">
       <h3 align="center">SWAPI (StarWars Api)</h3>
         <br />
-        <a target="_blank" href="https://github.com/alexcumplido">
+        <a target="_blank" href="https://starwars-swapi.vercel.app/">
           <img src="https://alexcumplido.github.io/portfolio/images/swapi.PNG" width="100%" alt="Travel App"/>
         </a>
         <br />
