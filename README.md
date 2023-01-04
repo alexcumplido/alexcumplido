@@ -24,7 +24,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p align="center">Client-side app connecting animal shelters and people looking to adopt a pet. Interface built with HTML5, CSS3, and React.js with TypeScript. Integrated third-party APIs, applied code formatting with ESlint-Prettier, and used Vite as environment builder tool.
+        <p align="center">Client-side app connecting animal shelters and people looking to adopt a pet. Interface built with HTML5, CSS3, and React.js with TypeScript. Integrated third-party APIs, code formatted with ESlint-Prettier, and used Vite as environment builder.
         </p>
     </td>
     </tr>
