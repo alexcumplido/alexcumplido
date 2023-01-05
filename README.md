@@ -24,7 +24,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p align="center">Client-side app connecting animal shelters and people looking to adopt a pet. Interface built with HTML5, CSS3, and React.js with TypeScript. Integrated third-party APIs, code formatted with ESlint-Prettier, and used Vite as environment builder.
+        <p align="center">Client-side app connecting animal shelters and people looking to adopt a pet. Interface built with <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>React.js</strong> with <strong>TypeScript</strong>. Integrated third-party APIs, code formatted with <strong>ESlint-Prettier</strong>, and used Vite as environment builder.
         </p>
     </td>
     </tr>
@@ -51,7 +51,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
     </tr>
     <tr>
       <td width="100%" valign="top">
-        <h3 align="center">Yoga Series</h3>
+        <h3 align="center">Yoga Series (working)</h3>
         <br />
           <a target="_blank" href="https://yogaseries.vercel.app/">
             <img src="https://alexcumplido.github.io/portfolio/images/yourYoga.png" width="100%" alt="Portfolio"/>
