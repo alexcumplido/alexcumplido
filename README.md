@@ -45,7 +45,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
           </a>
         </p>
         <p align="center">
-          Collection of interface widgets ready to use. Built with native <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript ES6</strong>, and applying <strong>Accessibility</strong> standards.
+          Interface widgets ready to use. Built with native <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript ES6</strong>, and applying <strong>Accessibility</strong> standards.
         </p>
       </td>
     </tr>
