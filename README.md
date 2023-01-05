@@ -8,7 +8,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
 
 🙋‍♂️ or via <strong>[linkedin](https://www.linkedin.com/in/alexandrecb/)</strong>
 
-<h1 align="center">Work</h1>
+<h1 align="center">Current work</h1>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="100%" valign="top">
