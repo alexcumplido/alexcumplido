@@ -6,6 +6,8 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
 
 📫 Reach me at <strong>alexcubou@gmail.com</strong>
 
+🙋‍♂️ or via [linkedin](https://www.linkedin.com/in/alexandrecb/)
+
 <h1 align="center">Work</h1>
 <table bordercolor="#66b2b2">
   <tr>
