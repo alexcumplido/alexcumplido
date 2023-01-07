@@ -26,7 +26,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p align="center">Client-side app helping people looking to adopt an animal from a shelter. UI built with <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>React</strong> with <strong>TypeScript</strong>. Integrated third-party <strong>APIs</strong>, code formatted with <strong>ESlint-Prettier</strong>, and used Vite as environment builder.
+        <p align="center">Client-side app helping people looking to adopt an animal from a shelter. UI built with <strong>HTML5</strong>, <strong>Sass</strong>, and <strong>React</strong> with <strong>TypeScript</strong>. Integrated third-party <strong>APIs</strong>, code formatted with <strong>ESlint-Prettier</strong>, and used Vite as environment builder.
         </p>
     </td>
     </tr>
