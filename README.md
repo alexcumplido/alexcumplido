@@ -1,6 +1,6 @@
 ### Hello there!
 
-Translating business logic into an easy-to-use UI is my passion. Driven by team collaboration, I enjoy participating in tech meetups and Hackathons. Currently working with Sass, React, JavaScript, and TypeScript. Also interested in TDD principles and accessibility standards
+Translating business logic into an easy-to-use UI is my passion. Driven by team collaboration, I enjoy participating in tech meetups and Hackathons. Currently working with Sass, React, JavaScript, and TypeScript. Also interested in TDD principles and accessibility standards.
 
 👨‍💻 See my <strong>[website](https://alexcumplido.github.io/portfolio/)</strong> for more information!
 
@@ -26,7 +26,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
           </a>
         </p>
-        <p align="center">Client-side app helping people looking to adopt an animal from a shelter. UI built with <strong>Sass</strong>, <strong>React</strong>, and <strong>TypeScript</strong>. Integrated third-party <strong>APIs</strong>, code formatted with <strong>ESlint - Prettier</strong>, and used <strong>Vite</strong>, as environment builder.
+        <p align="center">Client-side app helping people looking to adopt an animal from a shelter. UI built with <strong>Sass</strong>, <strong>React</strong>, and <strong>TypeScript</strong>. Integrated third-party <strong>APIs</strong>, code formatted with <strong>ESlint-Prettier</strong>, and used <strong>Vite</strong> as environment builder.
         </p>
     </td>
     </tr>
@@ -67,7 +67,7 @@ Translating business logic into an easy-to-use UI is my passion. Driven by team 
                   <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
               </a>
         </p>
-          <p align="center">App for a Yoga Studio supporting practitioners customizing their posture series. Built with <strong>CSS3</strong>, <strong>JavaScript</strong>, and <strong>React</strong>. Code formatted, Vercel for deployment.</p>
+          <p align="center">Supporting Yoga Studio practitioners customizing their posture series. Built with <strong>CSS3</strong>, <strong>JavaScript</strong>, and <strong>React</strong>. Code formatted, and <strong>Vercel</strong> for deployment.</p>
       </td>
     </tr>
 </table>
