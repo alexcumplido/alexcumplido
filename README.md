@@ -1,6 +1,6 @@
 ### Hello there!
 
-Translating business logic into an easy-to-use UI is my passion. Driven by team collaboration, I enjoy participating in tech meetups and Hackathons. Currently working with Sass, React, JavaScript, and TypeScript. Also interested in TDD principles and accessibility standards.
+Translating business logic into an easy-to-use UI is my passion. Driven by team collaboration, I enjoy participating in tech meetups and Hackathons. Currently working with Sass, JavaScript, TypeScript, and React. Also interested in TDD principles and accessibility standards.
 
 👨‍💻 See my <strong>[website](https://alexcumplido.github.io/portfolio/)</strong> for more information!
 
